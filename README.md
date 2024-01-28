@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-photo/visionary-programming-coding-future-software_31965-15284.jpg?w=1380)](https://ashkumar.io)
 <h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1060&t=st=1706436358~exp=1706436958~hmac=c6ed2444860c44ede98252359638fcf45a304dc3f0ca8fbca071a83bfd828fa3">
 
 - 🌱 I’m currently learning **Node.js**
